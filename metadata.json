@@ -1,0 +1,6 @@
+{
+  "name": "Finance Manager",
+  "description": "A premium personal finance application to track income, expenses, loans, and bank accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
